@@ -10,4 +10,4 @@
  <li>processingArray</li>
  <li>outputArray</li>
 </ul>
-<p>© 2017 SFU</p>
+<p>© 2018 SFU</p>
